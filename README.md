@@ -19,9 +19,6 @@ A simple and elegant weather application built with JavaScript that allows users
 - JavaScript (ES6+)
 - OpenWeatherMap API
 
-## Screenshots
-
-[Add screenshots of your application here]
 
 ## Installation
 
